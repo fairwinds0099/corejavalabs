@@ -13,7 +13,7 @@ public class ListIntro {
         Object[] myObjectArray = {1, "Venus", 2, "Mars"};
 
 
-/*        System.out.println("object hash: " + myFirstArray);
+/*      System.out.println("object hash: " + myFirstArray);
         System.out.println("array length:" + myFirstArray.length);
 
         for (int i = 0; i < myFirstArray.length; i++) {
@@ -28,7 +28,6 @@ public class ListIntro {
         for (int i = mySecondArray.length - 1; i >= 0; i--) {
             System.out.println(mySecondArray[i]);
         }*/
-
 
 /*
         for (int i=0; i<myObjectArray.length; i++) {
@@ -57,7 +56,7 @@ public class ListIntro {
         }
 
 
-        
+
 
     }
 
